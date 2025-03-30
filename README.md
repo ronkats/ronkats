@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My badges:
+
+![17433629208178316546476202220091](https://github.com/user-attachments/assets/e699cf68-9e0e-4ede-90d6-b8bdde784c47)
+
+
 <!--
 **ronkats/ronkats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
